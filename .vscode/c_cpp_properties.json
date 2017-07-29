@@ -1,0 +1,40 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/opt/arduino/hardware/arduino/avr/cores/arduino",
+                "/opt/arduino/hardware/arduino/avr/libraries/EEPROM/",
+                "/opt/arduino/hardware/arduino/avr/libraries/SPI/",
+                "/opt/arduino/hardware/arduino/avr/libraries/SoftwareSerial/",
+                "/opt/arduino/hardware/arduino/avr/libraries/Wire/",
+                "/opt/arduino/hardware/tools/avr/avr/include/",
+                "/opt/arduino/hardware/tools/avr/avr/include/avr/",
+                "/opt/arduino/hardware/tools/avr/avr/include/compat/",
+                "/opt/arduino/hardware/tools/avr/avr/include/util/",
+                "/opt/arduino/hardware/tools/avr/lib/gcc/avr/4.*.*/include/",
+                "/opt/arduino/hardware/tools/avr/lib/gcc/avr/4.*.*/include-fixed/",
+                "${workspaceRoot}"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "/opt/arduino/hardware/arduino/avr/cores/arduino",
+                    "/opt/arduino/hardware/arduino/avr/libraries/EEPROM/",
+                    "/opt/arduino/hardware/arduino/avr/libraries/SPI/",
+                    "/opt/arduino/hardware/arduino/avr/libraries/SoftwareSerial/",
+                    "/opt/arduino/hardware/arduino/avr/libraries/Wire/",
+                    "/opt/arduino/hardware/tools/avr/avr/include/",
+                    "/opt/arduino/hardware/tools/avr/avr/include/avr/",
+                    "/opt/arduino/hardware/tools/avr/avr/include/compat/",
+                    "/opt/arduino/hardware/tools/avr/avr/include/util/",
+                    "/opt/arduino/hardware/tools/avr/lib/gcc/avr/4.*.*/include/",
+                    "/opt/arduino/hardware/tools/avr/lib/gcc/avr/4.*.*/include-fixed/",
+                    "${workspaceRoot}"
+                ]
+            },
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 2
+}
